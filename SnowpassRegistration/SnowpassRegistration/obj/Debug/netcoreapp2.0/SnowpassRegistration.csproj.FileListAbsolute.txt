@@ -1,0 +1,12 @@
+C:\Users\acer\Source\Repos\SnowpassRegistration\SnowpassRegistration\SnowpassRegistration\bin\Debug\netcoreapp2.0\SnowpassRegistration.deps.json
+C:\Users\acer\Source\Repos\SnowpassRegistration\SnowpassRegistration\SnowpassRegistration\bin\Debug\netcoreapp2.0\SnowpassRegistration.runtimeconfig.json
+C:\Users\acer\Source\Repos\SnowpassRegistration\SnowpassRegistration\SnowpassRegistration\bin\Debug\netcoreapp2.0\SnowpassRegistration.runtimeconfig.dev.json
+C:\Users\acer\Source\Repos\SnowpassRegistration\SnowpassRegistration\SnowpassRegistration\bin\Debug\netcoreapp2.0\SnowpassRegistration.dll
+C:\Users\acer\Source\Repos\SnowpassRegistration\SnowpassRegistration\SnowpassRegistration\bin\Debug\netcoreapp2.0\SnowpassRegistration.pdb
+C:\Users\acer\Source\Repos\SnowpassRegistration\SnowpassRegistration\SnowpassRegistration\obj\Debug\netcoreapp2.0\SnowpassRegistration.csprojResolveAssemblyReference.cache
+C:\Users\acer\Source\Repos\SnowpassRegistration\SnowpassRegistration\SnowpassRegistration\obj\Debug\netcoreapp2.0\SnowpassRegistration.csproj.CoreCompileInputs.cache
+C:\Users\acer\Source\Repos\SnowpassRegistration\SnowpassRegistration\SnowpassRegistration\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\acer\Source\Repos\SnowpassRegistration\SnowpassRegistration\SnowpassRegistration\obj\Debug\netcoreapp2.0\SnowpassRegistration.AssemblyInfoInputs.cache
+C:\Users\acer\Source\Repos\SnowpassRegistration\SnowpassRegistration\SnowpassRegistration\obj\Debug\netcoreapp2.0\SnowpassRegistration.AssemblyInfo.cs
+C:\Users\acer\Source\Repos\SnowpassRegistration\SnowpassRegistration\SnowpassRegistration\obj\Debug\netcoreapp2.0\SnowpassRegistration.dll
+C:\Users\acer\Source\Repos\SnowpassRegistration\SnowpassRegistration\SnowpassRegistration\obj\Debug\netcoreapp2.0\SnowpassRegistration.pdb
